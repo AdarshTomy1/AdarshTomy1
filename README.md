@@ -1,36 +1,29 @@
-# Hi there 👋, I'm Adarsh Tomy  
+# Hi, I'm Adarsh 👋✨  
 
-🚀 Passionate **Full-Stack Developer** | 💻 Python, Django, React.js | 📊 Databases: MySQL, MongoDB  
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-coding-on-computer-10283165-8292590.png" alt="developer illustration" width="400"/>
 
----
-
-### 👨‍💻 About Me  
-- 🔭 I’m currently working on **AI-powered web applications**  
-- 🌱 I’m currently learning **Advanced Django, System Design, and Cloud Deployments**  
-- 👯 I’m looking to collaborate on **open-source AI and web projects**  
-- 💬 Ask me about **Django, React, APIs, and scalable system design**  
-- ⚡ Fun fact: I love blending **AI with full-stack development** to build creative solutions.  
+I'm a **Full-Stack Developer** passionate about building scalable and creative web applications.  
 
 ---
 
-### 🛠️ Tech Stack  
-**Frontend:** React.js, JavaScript, HTML5, CSS3, TailwindCSS  
-**Backend:** Python, Django, Node.js (basic)  
-**Databases:** MySQL, MongoDB  
-**Other Tools:** Git, GitHub, Streamlit, REST APIs, Postman  
+### 🔧 Tech Focus  
+- 🐍 **Python, Django, REST APIs**  
+- ⚛️ **React.js, TailwindCSS, JavaScript**  
+- 🗄️ **MySQL, MongoDB**  
+- ☁️ **Streamlit, Git, Render, Cloud Deployments**  
 
 ---
 
-### 📊 GitHub Stats  
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshTomy1&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshTomy1&layout=compact&theme=tokyonight)  
+### 🌍 Find Me Here  
+- 🚀 [Portfolio](https://your-portfolio-link.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- 📧 [Email](mailto:your-email@gmail.com)  
 
 ---
 
-### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)  
+### 🎯 Interests  
+📚 AI & Machine Learning • 🎮 Gaming • 🎥 Movies • 🌱 Continuous Learning  
 
 ---
-⭐️ From [AdarshTomy1](https://github.com/AdarshTomy1)
+
+✨ *“Code, Create, Innovate.”*  
