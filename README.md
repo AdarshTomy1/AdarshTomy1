@@ -1,6 +1,5 @@
 # Hi, I'm Adarsh 👋✨  
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-coding-on-computer-10283165-8292590.png" alt="developer illustration" width="400"/>
 
 I'm a **Full-Stack Developer** passionate about building scalable and creative web applications.  
 
@@ -15,7 +14,6 @@ I'm a **Full-Stack Developer** passionate about building scalable and creative w
 ---
 
 ### 🌍 Find Me Here  
-- 🚀 [Portfolio](https://your-portfolio-link.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
 - 📧 [Email](mailto:your-email@gmail.com)  
 
